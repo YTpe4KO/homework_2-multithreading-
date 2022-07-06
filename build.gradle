@@ -39,7 +39,6 @@ dependencies {
     testImplementation "org.junit.jupiter:junit-jupiter-params:$junitVersion"
     testImplementation "org.mockito:mockito-junit-jupiter:$mockitoVersion"
     testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.22.0'
-
 }
 
 test {
